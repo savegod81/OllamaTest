@@ -1,0 +1,10 @@
+1.28.10.13:11434|huihui_ai/glm-4.7-flash-abliterated:latest
+101.201.209.101:11434|huihui_ai/glm-4.7-flash-abliterated:latest
+111.10.177.133:11434|glm-4.7-flash:latest
+144.123.164.190:11434|glm-4.7-flash:256k
+144.123.164.190:11434|glm-4.7-flash:latest
+150.158.137.35:11434|huihui_ai/glm-4.7-flash-abliterated:latest
+219.136.9.93:11434|huihui_ai/glm-4.7-flash-abliterated:latest
+58.246.65.11:11434|glm-4.7-flash:q4_K_M
+60.13.232.229:11434|huihui_ai/glm-4.7-flash-abliterated:latest
+61.157.13.79:11434|glm-4.7-flash:latest
